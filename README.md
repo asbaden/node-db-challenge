@@ -39,12 +39,16 @@ Commit your code regularly and use descriptive messages. This helps both you (in
 Demonstrate your understanding of this week's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
+  Realtional Databases are databses where data is stored in the "relation" or table. SQL is how to sort through those tables 
 
 - [ ] Why do tables need a `primary key`?
+Because they need to be unique 
 
 - [ ] What is the name given to a table column that references the primary key on another table.
+foriegn key
 
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+A table in between the many
 
 ## Minimum Viable Product
 
